@@ -1,4 +1,4 @@
-# Diabetes Prediction Assessment: Leveraging SQL for Healthcare Insights
+# Healthcare Data Analysis: Identifying Diabetes Risk Factors Using SQL
 
 This project utilizes SQL to analyze a simulated healthcare dataset from Psyliq, focusing on uncovering potential predictors of diabetes. We delve into patient demographics, health indicators, and lifestyle habits to gain valuable insights and pave the way for developing effective diabetes prediction models.
 
